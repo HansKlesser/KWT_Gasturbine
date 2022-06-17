@@ -1,0 +1,2 @@
+label;comp_type;busses;bus_param;bus_P_ref;bus_char;bus_base;design;offdesign;design_path;local_design;local_offdesign;P;P_set;P_var;eta_s;eta_s_set;eta_s_var;eta_s_char;eta_s_char_set;eta_s_char_param;pr;pr_set;pr_var;cone;cone_set
+turbine;Turbine;['work net'];[None];[-347720862.7365424];['0x1206ea700'];['component'];[];[];nan;False;False;-347720862.7365424;False;False;0.8999999999996269;True;False;0x1210117c0;False;m;0.052631578947368404;False;False;nan;False
